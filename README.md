@@ -2,7 +2,6 @@
 This repository provides a pre-configured Next.js project template with TypeScript, ESLint, Prettier, Husky, and Lint-Staged to ensure a clean, consistent, and production-ready codebase. It’s designed to streamline your development workflow and enforce coding standards across your team..
 
 🌟 Why Use This Template?
-Writing code isn't just about implementing features—it's about maintaining a well-structured, consistent, and readable codebase. This template helps you:
 
 ✅ Maintain consistent code formatting across all team members
 ✅ Enforce coding standards and best practices automatically
