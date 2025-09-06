@@ -60,6 +60,7 @@ const page = () => {
             </div>
             <div className="flex flex-col gap-3">
               <div className="flex items-center gap-2">
+                {/* Image Location Icon */}
                 <Image
                   src="https://res.cloudinary.com/dq2gdnl7o/image/upload/v1756411179/UpComingEvents/fi_3179068_dfr4yq.png"
                   alt="Location Icon"
